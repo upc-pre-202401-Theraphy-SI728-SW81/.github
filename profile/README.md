@@ -41,7 +41,7 @@ Ciclo:
 |-----------|-----------|-----------|-----------|
 | 1.0 | 10/04/2024 | Del Carpio, Jose| Creación del reporte del trabajo final  |
 
-**Enlace del Project Report: [https://github.com/upc-pre-202302-IoTheraphy-SI572-SW71)**
+**Enlace del Project Report: [https://github.com/upc-pre-202401-Theraphy-SI728-SW81/Report)**
 ## Contenido
 - Capítulo I: Introducción 
 	- 1.1. Startup Profile
