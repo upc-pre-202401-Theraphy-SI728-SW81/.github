@@ -30,7 +30,7 @@ Relación de integrantes:
  - Gómez De la Cruz, Cristhian Gabriel   u202020341
 
 Mes y año: 
-Agosto 2024
+Abril 2024
 						   
 Ciclo: 
 2024-1
